@@ -104,3 +104,5 @@ AND parcela = 1
 
 ***************************************
 
+adicionando informações para teste de commit
+
